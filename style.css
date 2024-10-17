@@ -49,8 +49,9 @@ table{
     margin-left: 120px;
 }
 th{
+    color: antiquewhite;
     text-transform:uppercase;
-    background-color: lightblue;
+    background-color: midnightblue;
 }
 table,td,th,tr{
     border-collapse: collapse;
