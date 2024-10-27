@@ -58,3 +58,18 @@ table,td,th,tr{
     padding: 10px 15px;
     border: 1px solid gray;
 }
+@media only screen and (max-width:768px){
+    button{
+        margin-bottom: 10px !important;
+        
+    }
+
+    #button-container{
+        margin:10px 50px !important;
+
+    }
+
+    table{
+        margin: auto !important;
+    }
+} 
